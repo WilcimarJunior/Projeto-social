@@ -38,3 +38,12 @@ section#telefone{
     background-size: 70%;
     background-position: center;
 }
+
+iframe#tela {
+    position: relative;
+    top: 136px;
+    left: 61px;
+    width: 188px;
+    height: 330px;
+
+}
